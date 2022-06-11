@@ -1,0 +1,5 @@
+(function(win,doc){
+    'use strict';
+
+    alert('VOCE ESTA NO MODO SUPER USUARIO, ISSO QUER DIZER QUE TODAS AS ALTERAÇÕES FEITAS SÃO IRREVERSIVEIS, ENTÃO TENHA CUIDADO AO FAZER ALTERAÇÕES!');
+})(window,document);
